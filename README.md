@@ -75,3 +75,9 @@ Recommendation &amp; Ranking, Node2Vec, Association Rule Mining (Apriori algorit
 ✅ **그래프와 Node2Vec을 활용한 패션 추천 시스템 설계 및 최적화**
 
 ✅ **Apriori Algorithm을 적용하여 불완전한 코디 자동 완성 구현**
+
+---
+
+![image](https://github.com/user-attachments/assets/96cdc0d7-4ad9-487a-a63f-82ae9ddfede7)
+![image](https://github.com/user-attachments/assets/3e70528d-ccb6-45bb-99c6-c3743b912378)
+
