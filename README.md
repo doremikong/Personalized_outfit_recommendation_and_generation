@@ -1,5 +1,4 @@
-# Personalized_outfit_recommendation_and_generation
-Recommendation &amp; Ranking, Node2Vec, Association Rule Mining (Apriori algorithm)
+## 👚유저 맞춤형 패션 추천
 
 ## **📑 Summary**
 
